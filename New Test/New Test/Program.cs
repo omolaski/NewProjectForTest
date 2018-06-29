@@ -10,8 +10,7 @@ namespace New_Test
     {
         static void Main(string[] args)
         {
-            //This is just to test if the repository works.sdfsdfsfsddsdfsfdfsd
-            //This is tht test to see it worked as expected. 
+            Console.WriteLine("Hello Git Hub");
         }
     }
 }
